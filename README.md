@@ -1,1 +1,1 @@
-# security_sample
+セキュリティ勉強用
